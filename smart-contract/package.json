@@ -1,0 +1,9 @@
+{
+  "name": "@chit-fund/smart-contract",
+  "version": "0.1.0",
+  "private": true,
+  "main": "truffle-config.js",
+  "repository": "https://github.com/MuhdRaffiq/SmolChitFund",
+  "author": "Hisyam & Raffiq",
+  "license": "MIT"
+}
